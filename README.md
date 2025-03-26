@@ -8,10 +8,9 @@
 - 提供簡單直觀的介面來進行貨幣轉換。
 
 ## 安裝
-1. 克隆或下載此專案：
+1. clone或下載此專案
 
-2. 創建並激活虛擬環境（若尚未安裝）：
-python -m venv venv
+2. 創建並啟動虛擬環境：python -m venv venv
 
 3. 安裝所需的依賴：
 pip install -r requirements.txt
