@@ -12,8 +12,7 @@
 
 2. 創建並啟動虛擬環境：python -m venv venv
 
-3. 安裝所需的依賴：
-pip install -r requirements.txt
+3. 安裝所需的依賴：pip install -r requirements.txt
 
 ## 使用方法
 1. 執行程式：
