@@ -15,9 +15,7 @@
 3. 安裝所需的依賴：pip install -r requirements.txt
 
 ## 使用方法
-1. 執行程式：
-
-python converter.py
+1. 執行程式：python converter.py
 
 2. 在介面上選擇你要轉換的貨幣和金額，按下「轉換」即可顯示結果。
 
