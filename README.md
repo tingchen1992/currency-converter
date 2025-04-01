@@ -14,6 +14,18 @@
 
 3. 安裝所需的依賴：pip install -r requirements.txt
 
+## 設定 API Key
+訪問 ExchangeRate-API 官方網站。
+
+註冊一個免費帳戶。
+
+登入後，複製你的 API Key。
+
+設置 .env 檔案
+在專案根目錄下建立一個 .env 檔案，並加入以下內容：
+API_KEY=你的_API_KEY
+
+
 ## 使用方法
 1. 執行程式：python3 converter.py
 
