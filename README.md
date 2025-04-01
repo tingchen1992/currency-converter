@@ -10,9 +10,11 @@
 ## 安裝
 1. clone或下載此專案
 
-2. 創建並啟動虛擬環境：python3 -m venv venv
+2. 創建並啟動虛擬環境：
+   python3 -m venv venv
 
-3. 安裝所需的依賴：pip install -r requirements.txt
+4. 安裝所需的依賴：
+   pip install -r requirements.txt
 
 ## 設定 API Key
 訪問 ExchangeRate-API 官方網站。
@@ -27,9 +29,10 @@ API_KEY=你的_API_KEY
 
 
 ## 使用方法
-1. 執行程式：python3 converter.py
+1. 執行程式：
+   python3 converter.py
 
-2. 在介面上選擇你要轉換的貨幣和金額，按下「轉換」即可顯示結果。
+3. 在介面上選擇你要轉換的貨幣和金額，按下「轉換」即可顯示結果。
 
 ## 截圖
 
